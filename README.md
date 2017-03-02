@@ -24,17 +24,17 @@
 3. Widen your visions and add some creative functions
 
 ##### 效果图
-![](https://codeload.github.com/UniqueStudio-iOS/OptimizeTableView/blob/master/imags/1.gif)
+![](https://github.com/UniqueStudio-iOS/OptimizeTableView/blob/master/imags/1.gif)
 
-![](https://codeload.github.com/UniqueStudio-iOS/OptimizeTableView/blob/master/imags/2.gif)
+![](https://github.com/UniqueStudio-iOS/OptimizeTableView/blob/master/imags/2.gif)
 
-![](https://codeload.github.com/UniqueStudio-iOS/OptimizeTableView/blob/master/imags/4.gif)
+![](https://github.com/UniqueStudio-iOS/OptimizeTableView/blob/master/imags/4.gif)
 
 ![](https://github.com/UniqueStudio-iOS/OptimizeTableView/blob/master/imags/5.gif)
 
-![](https://codeload.github.com/UniqueStudio-iOS/OptimizeTableView/blob/master/imags/delete.gif)
+![](https://github.com/UniqueStudio-iOS/OptimizeTableView/blob/master/imags/delete.gif)
 
-![](https://codeload.github.com/UniqueStudio-iOS/OptimizeTableView/blob/master/imags/trans.gif)
+![](https://github.com/UniqueStudio-iOS/OptimizeTableView/blob/master/imags/trans.gif)
 
 ### Some Instructions
 
