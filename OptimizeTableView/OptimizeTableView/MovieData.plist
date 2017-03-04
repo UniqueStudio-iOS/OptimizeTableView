@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   MovieData.plist
+   TableViewDemo
+
+   Created by 程天恒 on 2017/3/2.
+   Copyright (c) 2017年 Vic. All rights reserved.
+-->
+<plist version="1.0">
+    <array>
+        <dict>
+            <key>name</key>
+            <string>肖申克的救赎</string>
+            <key>image</key>
+            <string>https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p480747492.jpg</string>
+        </dict>
+        
+        <dict>
+            <key>name</key>
+            <string>这个杀手不太冷</string>
+            <key>image</key>
+            <string>https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p511118051.jpg</string>
+        </dict>
+        
+        <dict>
+            <key>name</key>
+            <string>霸王别姬</string>
+            <key>image</key>
+            <string>https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910813120.jpg</string>
+        </dict>
+        
+        <dict>
+            <key>name</key>
+            <string>阿甘正传</string>
+            <key>image</key>
+            <string>https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p510876377.jpg</string>
+        </dict>
+        
+        <dict>
+            <key>name</key>
+            <string>美丽人生</string>
+            <key>image</key>
+            <string>https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p510861873.jpg</string>
+        </dict>
+        
+        <dict>
+            <key>name</key>
+            <string>千与千寻</string>
+            <key>image</key>
+            <string>https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p1910830216.jpg</string>
+        </dict>
+        
+        <dict>
+            <key>name</key>
+            <string>辛德勒的名单</string>
+            <key>image</key>
+            <string>https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p492406163.jpg</string>
+        </dict>
+        
+        <dict>
+            <key>name</key>
+            <string>泰坦尼克号</string>
+            <key>image</key>
+            <string>https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p457760035.jpg</string>
+        </dict>
+        
+        <dict>
+            <key>name</key>
+            <string>盗梦空间</string>
+            <key>image</key>
+            <string>https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p513344864.jpg</string>
+        </dict>
+        
+        <dict>
+            <key>name</key>
+            <string>机器人总动员</string>
+            <key>image</key>
+            <string>https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p449665982.jpg</string>
+        </dict>
+    
+    </array>
+</plist>

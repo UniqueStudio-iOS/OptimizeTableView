@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+ MovieData.plist
+ TableViewDemo
+ 
+ Created by 程天恒 on 2017/3/2.
+ Copyright (c) 2017年 Vic. All rights reserved.
+ -->
+<plist version="1.0">
+    <array>
+        <dict>
+            <key>name</key>
+            <string>海上钢琴师</string>
+            <key>image</key>
+            <string>https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p511146957.jpg</string>
+        </dict>
+        
+        <dict>
+            <key>name</key>
+            <string>三傻大闹宝莱坞</string>
+            <key>image</key>
+            <string>https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p579729551.jpg</string>
+        </dict>
+        
+        <dict>
+            <key>name</key>
+            <string>忠犬八公的故事</string>
+            <key>image</key>
+            <string>https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p524964016.jpg</string>
+        </dict>
+        
+        <dict>
+            <key>name</key>
+            <string>放牛班的春天</string>
+            <key>image</key>
+            <string>https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910824951.jpg</string>
+        </dict>
+        
+        <dict>
+            <key>name</key>
+            <string>大话西游之大圣娶亲</string>
+            <key>image</key>
+            <string>https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p648365452.jpg</string>
+        </dict>
+        
+        
+    </array>
+</plist>
