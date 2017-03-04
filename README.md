@@ -11,7 +11,7 @@
 
 #### 基本功能点
 
-1. 通过TableView展示豆瓣Top10。
+1. 通过TableView展示豆瓣Top10(从提供的plist文件加载数据)
 2. 支持删除某部电影(删除某个TableViewCell)。
 3. 支持添加新电影排名,从AddViewController中取得一些电影，将其添加到主界面,通过代理(Delegate)方式传递数据。
 4. 支持图片显示。
@@ -39,9 +39,9 @@
 
 ### Some Instructions
 
-* load data from `MovieData.plist`,`NewMovie.plist`
-* Customize your own UITableViewCell class
-* Use delegate to pass value from `AddViewController` to `ViewController`
+* 从`MovieData.plist`,`NewMovie.plist` 两个文件中加载数据，主界面使用`MovieData.plist`的数据，添加界面使用`NewMovie.plist`的数据。
+* 自定义UITableViewCell类
+* 通过代理进行从`AddViewController` 到 `ViewController`的传值。
 * Optimize...
 
 ### Submission
