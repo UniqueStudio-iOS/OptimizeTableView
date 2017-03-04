@@ -3,19 +3,20 @@
 > **This TableView Demo is written by a 菜鸡🐔, it can not run correctly and performs terrible. All you need to do it to download the code from [here](https://codeload.github.com/UniqueStudio-iOS/OptimizeTableView/zip/master) and CORRECT SOME MISTAKES && OPIMIZE THE DEMO**
 
 
-
-
 ### Your Goal
 * **Fix all bugs**
+* **Learn about UITableView**
 * **Finish the TableView Demo**
 * **Optimize the performance of the demo**
 
 #### 基本功能点
 
 1. 通过TableView展示豆瓣Top10。
-2. 支持删除某部电影
-3. 支持修改排名,从`AddViewController`中取得一些电影，将其添加到主界面。
-4. 支持图片显示
+2. 支持删除某部电影(删除某个TableViewCell)。
+3. 支持添加新电影排名,从AddViewController中取得一些电影，将其添加到主界面,通过代理(Delegate)方式传递数据。
+4. 支持图片显示。
+5. TableViewCell移动进行修改排名。
+
 
 #### 提高功能点(加分项)
 
@@ -39,11 +40,12 @@
 ### Some Instructions
 
 * load data from `MovieData.plist`,`NewMovie.plist`
-* Custom your own UITableViewCell class
+* Customize your own UITableViewCell class
 * Use delegate to pass value from `AddViewController` to `ViewController`
 * Optimize...
 
 ### Submission
+
 
 
 ### Attention

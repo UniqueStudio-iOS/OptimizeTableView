@@ -28,6 +28,8 @@
     //self.tableView = [[UITableView alloc]initWithFrame:tableViewFrame];
     
     self.title = @"添加";
+    [self.view addSubview:self.tableView];
+
     // Do any additional setup after loading the view.
 }
 
@@ -37,6 +39,7 @@
 }
 
 - (void)loadData {
+    
 }
 
 #pragma mark - UITableViewDataSource

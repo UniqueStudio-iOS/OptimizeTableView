@@ -31,6 +31,7 @@
     UIBarButtonItem *addButton = [[UIBarButtonItem alloc]initWithTitle:@"添加新电影" style:UIBarButtonItemStyleDone target:self action:@selector(addNewMovie)];
     
     self.navigationItem.leftBarButtonItem = addButton;
+    [self.view addSubview:self.tableView];
 
     // Do any additional setup after loading the view, typically from a nib.
 }
