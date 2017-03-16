@@ -49,23 +49,8 @@
 }
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
-    UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"Cell"];
-    if (cell == nil) {
-        cell = [UITableViewCell new];
-    }
-    for(UIView *view in cell.contentView.subviews) {
-        [view removeFromSuperview];
-    }
-    NSDictionary *dict = self.movieList[indexPath.section];
-    UILabel *titleLabel = [[UILabel alloc]initWithFrame:CGRectMake(150, 70, 200, 40)];
-    titleLabel.text = [dict valueForKey:@"name"];
-    [cell.contentView addSubview:titleLabel];
-    
-    UIImageView *imageView = [[UIImageView alloc]initWithFrame:CGRectMake(20, 10, 100, 160)];
-    imageView.image = ;
-    [cell.contentView addSubview:imageView];
-    
-    return cell;
+    // Use your Custom Cell
+    // return ;
 }
 
 #pragma mark - UITableViewDelegate
